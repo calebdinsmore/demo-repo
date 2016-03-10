@@ -15,3 +15,5 @@ def homepage():
 if __name__ == '__main__':
     app.run()
 
+print("Caleb was here")
+
